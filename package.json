@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "servidor node atividade",
   "main": "index.js",
-  "repository": "aaa",
+  "repository": "https://github.com/Rdsxt/API.git",
   "author": "Rodrigo",
   "license": "MIT",
   "private": false,
